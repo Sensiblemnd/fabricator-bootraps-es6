@@ -14,7 +14,6 @@ Fabricator is a tool for building website UI toolkits - _think ["Tiny Bootstraps
 ## Quick Start
 
 ```shell
-$ curl -L https://github.com/fbrctr/fabricator/archive/master.tar.gz | tar zx --strip 1
 $ npm start
 ```
 
