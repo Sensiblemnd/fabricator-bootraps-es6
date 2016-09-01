@@ -3,9 +3,7 @@
 // jshint esnext: true
 
 const $ = require('jquery');
-//const jQuery = $;
 require('imports?jQuery=jquery!bootstrap-sass');
-//const bootstrap = require('bootstrap-sass');
 
 
 
