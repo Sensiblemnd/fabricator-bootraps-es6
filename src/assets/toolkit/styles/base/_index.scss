@@ -1,0 +1,36 @@
+*,
+*:before,
+*:after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+ }
+ html{
+ 	font-size:62.5%;
+		  /*
+		 set font size to this percentage so we can use rems more easily
+		  EXAMPLE
+			font-size: 1.4rem;  this is equal to 14px
+			font-size: 2.4rem;  this is equal to 24px
+		  */
+		 }
+
+ html, body {
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		font-family:  sans-serif;
+		 font-weight: 400
+
+}
+body {
+	font-size: 16px;
+	font-size: 1.6rem;
+	position: relative;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-family: 'Open Sans', sans-serif;
+	margin:25px 60px 60px ;
+
+}

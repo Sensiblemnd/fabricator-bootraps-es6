@@ -1,0 +1,18 @@
+// Variables
+// Define the custom SASS variables for your project here.
+// font-family: 'Raleway', sans-serif;
+// font-family: 'EB Garamond', serif;
+$_settings: (
+    'dev-mode':                     true
+);
+
+$base-colors: (
+	dark: "#45494c",
+	light: "#a0a0a0",
+	lighter: '#f2f2f2',
+	pistachio: "#9bc200",
+	buttercup: "#f0b310"
+);
+
+$button-base-color: #ea1b25;
+
